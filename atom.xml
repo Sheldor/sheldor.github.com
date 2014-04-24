@@ -4,7 +4,7 @@
   <title><![CDATA[Sheldor 写字的地方]]></title>
   <link href="http://Sheldor.github.io/atom.xml" rel="self"/>
   <link href="http://Sheldor.github.io/"/>
-  <updated>2014-04-24T12:17:04+08:00</updated>
+  <updated>2014-04-24T12:26:18+08:00</updated>
   <id>http://Sheldor.github.io/</id>
   <author>
     <name><![CDATA[Sheldor]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[嘶嘶嘶嘶语言学习]]></title>
+    <link href="http://Sheldor.github.io/blog/2014/04/24/si-si-si-si-yu-yan-xue-xi/"/>
+    <updated>2014-04-24T12:24:33+08:00</updated>
+    <id>http://Sheldor.github.io/blog/2014/04/24/si-si-si-si-yu-yan-xue-xi</id>
+    <content type="html"><![CDATA[<p>今天准备开始认真学习Python。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[first test blog]]></title>
