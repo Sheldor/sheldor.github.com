@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Sheldor Home]]></title>
   <link href="http://Sheldor.github.io/atom.xml" rel="self"/>
   <link href="http://Sheldor.github.io/"/>
-  <updated>2014-04-24T09:54:09+08:00</updated>
+  <updated>2014-04-24T12:01:46+08:00</updated>
   <id>http://Sheldor.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Sheldor]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[First Test Blog]]></title>
+    <title type="html"><![CDATA[first test blog]]></title>
     <link href="http://Sheldor.github.io/blog/2014/04/24/first-test-blog/"/>
     <updated>2014-04-24T09:51:25+08:00</updated>
     <id>http://Sheldor.github.io/blog/2014/04/24/first-test-blog</id>
